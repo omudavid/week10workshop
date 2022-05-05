@@ -24,7 +24,8 @@ class ChatBubble extends StatelessWidget {
             left: isReply ? 10 : 100,
             right: isReply ? 100 : 10),
         padding: EdgeInsets.all(10),
-        child: Text('Hi Abike Please rate yourself'),
+        child: Text(
+            'Hi Abike Please rate yourselfjnjjdfjfdjdjdjdjdjnhhdhdhhfshfhfhkfhfhkshfhdhdshdhdhdhhdhdh'),
       ),
     );
   }
